@@ -18,3 +18,10 @@ else
 fi
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 sudo apt-get update
+
+# Install Flameshot
+sudo apt install -y flameshot
+
+# Install Simple Screenrecorder
+sudo apt-get install -y simplescreenrecorder
+
